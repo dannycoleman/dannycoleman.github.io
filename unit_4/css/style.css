@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Josefin+Sans');
+
+
+nav, h1, h2{
+	font-family: 'Josefin Sans', sans-serif;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+}
+
+nav {
+    background-color: #000;
+    overflow: hidden;
+    font-weight: bold;
+}
+
+nav a {
+    float: left;
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+nav a:hover{
+	background-color: #7083AD;
+	color: #fff;
+}
+
+h1 {
+	font-variant: small-caps;
+}
+
+header {
+	color: white;
+	font-size: 50px;
+	padding: 0;
+	margin: 0;
+}
+
+hr {
+	width: 500px
+}
+
+h2{
+	font-size: 35px;
+}
+
+body {
+	background-image: url("../images/studio2.jpg");
+	text-align: center;
+	background-size: cover;
+	background-position: center;
+	font-family: 'Crimson Text', serif;
+	color: white;
+	font-size: 1.3em;
+	font-weight:100;
+}
+
+
+#home{
+	background-color: #36579D;
+}
+
+#slogan {
+	font-style: italic; 
+}
+
+
+.who {
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+}
