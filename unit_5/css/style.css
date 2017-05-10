@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Josefin+Sans');
+
+
+
+nav, h1, h2{
+	font-family: 'Josefin Sans', sans-serif;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+}
+
+nav {
+    background-color: #E8C66A;
+    overflow: hidden;
+    font-weight: bold;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav a {
+    float: left;
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+nav a:hover{
+	background-color: #7083AD;
+	color: #fff;
+}
+
+h1 {
+	font-variant: small-caps;
+}
+
+header {
+	color: white;
+	font-size: 50px;
+	padding: 0;
+	margin: 0;
+	background-color: #FFED74;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+hr {
+	width: 500px
+}
+
+figure {
+	background-color: #FFC675;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+	background-color: #FFE2B8;
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+h2{
+	font-size: 35px;
+}
+
+body {
+	background-color: #FFE2B8;
+	text-align: center;
+	background-size: cover;
+	background-position: center;
+	font-family: 'Crimson Text', serif;
+	color: white;
+	font-size: 1.3em;
+	font-weight:100;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+#home{
+	background-color: #E8C66A;
+}
+
+#slogan {
+	font-style: italic; 
+}
+
