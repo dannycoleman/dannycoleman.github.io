@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Crimson+Text|Josefin+Sans');
 }
 
+* { 
+	margin:0; padding:0; box-sizing:border-box; 
+}
+
 nav, h1, h2{
     letter-spacing: 1.5px;
     font-weight: bold;
